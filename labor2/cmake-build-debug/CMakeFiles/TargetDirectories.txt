@@ -1,0 +1,3 @@
+D:/laba2/labor2/cmake-build-debug/CMakeFiles/labor2.dir
+D:/laba2/labor2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/laba2/labor2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
